@@ -1,0 +1,353 @@
+nav {
+	height: 50px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.navbar-header img {
+	width: 100%;
+}
+
+.navbar-header .logo {
+	background-color: #3177b9;
+}
+
+.navbar>.container-fluid .navbar-brand {
+	margin: 0;
+}
+
+.container-fluid {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+nav .navbar-collapse {
+	background-color: #f2f2f2;
+}
+
+.logo-m img {
+	width: 100px;
+}
+
+.navbar-header {
+	height: 50px;
+}
+
+.navbar-header .logo span {
+	width: 140px;
+	display: block;
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+	line-height: 50px;
+}
+
+.navbar-header .logo span:first-child {
+	background-color: #fff;
+	height: 75px;
+	border-bottom-right-radius: 30px;
+}
+
+.navbar-header .logo span:nth-child(2) {
+	background: -webkit-liner-gradient(left, #1c368c, #3177b9);
+	height: 0px;
+	overflow: hidden;
+}
+
+.navbar-header .logo span:last-child {
+	background: -webkit-liner-gradient(left, #1c1a4c, #3177b9);
+	height: 50px;
+	overflow: hidden;
+}
+
+.dropdown-menu {
+	padding: 0;
+}
+
+.dropdown-menu li {
+	padding: 5px 10px;
+	border-bottom: 1px solid #bbb;
+}
+
+.item1 {
+	background: url(../img/ultrasound-l.jpg) no-repeat;
+	height: 430px;
+	background-size: 100% 100%;
+	margin-top: 50px;
+}
+
+.item1-m,
+.item2-m,
+.item3-m {
+	padding-bottom: 10px;
+}
+
+.item1-m img {
+	width: 100%;
+	margin-top: 50px;
+}
+
+.item2-m img,
+.item3-m img {
+	width: 100%;
+}
+
+.item3-m .right1 {
+	width: 170px;
+}
+
+.item3-m .right1 h2 {
+	font-size: 18px;
+	line-height: 1.8;
+	font-weight: bold;
+}
+
+.item1 h2 {
+	padding-top: 8%;
+	font-size: 42px;
+	font-weight: bold;
+}
+
+.item1 p {
+	width: 400px;
+	font-size: 16px;
+}
+
+.item1 .btn {
+	width: 110px;
+	padding: 8px;
+}
+
+.item2 {
+	background: url(../img/li-l.jpg) no-repeat;
+	height: 580px;
+	background-size: 100% 100%;
+	margin-top: 0px;
+	color: #fff;
+}
+
+.item2 .btn-info {
+	background-color: #5bc0debf;
+	border: none;
+}
+
+.item2-m h2 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.item2-m p {
+	width: 320px;
+}
+
+.item3 {
+	background: url(../img/philips-watch-left-l.jpg) no-repeat;
+	height: 580px;
+	background-size: 100% 100%;
+	margin-top: 0px;
+	color: #fff;
+	text-align: right;
+}
+
+.item3 .right1 {
+	margin-top: 50px;
+	width: 430px;
+}
+
+.item3 h2 {
+	line-height: 1.5;
+	font-size: 45px;
+	text-shadow: 0px -1px 2px #817b7b;
+}
+
+.item4 {
+	background-color: #d7d4d4;
+	padding-top: 30px;
+}
+
+.item4 li span {
+	color: greenyellow;
+}
+
+ul {
+	padding: 0;
+}
+
+li {
+	list-style: none;
+}
+
+.item4 form>input {
+	display: inline-block;
+	margin: 3px 0;
+}
+
+.item4 .row {
+	margin: 0;
+}
+
+.item4-m .container {
+	margin: 0;
+	padding: 0;
+}
+
+.form-control1 {
+	display: block;
+	height: 34px;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #555;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+	-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+	-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+	transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.item4 form>input:last-child {
+	width: 100px;
+	display: inline-block;
+	margin: 5px 0;
+	display: block;
+}
+
+.item4 .img4 {
+	background: url(../img/LM-MyPhilips-Banner.jpg) no-repeat;
+	background-size: 100% 100%;
+	padding: 10px;
+	padding-top: 20px;
+	padding-bottom: 20%;
+	margin-bottom: 10px;
+}
+
+.img4 h2 {
+	padding-top: 20%;
+}
+
+.help {
+	width: 100%;
+	height: 200px;
+	background: #15a9d4;
+}
+
+.help .container>div {
+	max-width: 410px;
+}
+
+.help span {
+	position: relative;
+	display: block;
+	margin: 5px 0;
+}
+
+.help i {
+	position: absolute;
+	right: 7px;
+	top: 8px;
+	font-size: 16px;
+}
+
+.map {
+	background-color: #112b40;
+	padding: 10px 0;
+	color: #fff;
+}
+
+.map a {
+	color: #fff;
+}
+
+footer {
+	background: -webkit-linear-gradient(top, #022573, #035086);
+	width: 100%;
+	padding: 20px 0;
+}
+
+footer .row {
+	text-align: center;
+	padding: 10px 0;
+}
+
+footer .row div {
+	text-align: center;
+}
+
+footer .row>div:first-child {
+	text-align: left;
+}
+
+footer .dropdown .dropdown-menu {
+	margin-left: 80px;
+}
+
+footer .row>ul li {
+	float: left;
+	padding: 0 4px;
+	border-right: 1px solid #fff;
+}
+
+footer .row>ul {
+	display: inline-block;
+	text-align: center;
+}
+
+footer .row>ul li:last-child {
+	border: none;
+}
+
+footer .row>ul li a {
+	color: #fff;
+}
+
+.weibo2 {
+	margin: 10px 0;
+}
+
+footer p {
+	color: #fff;
+}
+
+#carousel-example-generic {
+	margin-top: 50px;
+}
+
+
+.info-img1 {
+	position: relative;
+}
+
+.info-news {
+	position: absolute;
+	left: 13%;
+	top: 11%;
+}
+
+.info-news h3 {
+	margin: 15px 0;
+}
+
+
+.up {
+	position: fixed;
+	width: 50px;
+	height: 50px;
+	bottom: 15px;
+	right: 10px;
+	text-align: center;
+	color: #fff;
+	background-color: rgba(0, 0, 0, .5);
+	font-size: 24px;
+	display: none;
+	cursor: pointer;
+}
+
+.up i {
+	line-height: 50px;
+}

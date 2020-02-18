@@ -1,0 +1,71 @@
+.list-news .nav a {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.list-news .tab-content {
+	border: 1px solid #ccc;
+	border-top: none;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.list-news .news-1 li {
+	padding: 10px 0;
+	overflow: hidden;
+	border-bottom: 1px dashed #ccc;
+}
+
+.list-news .news-1 li h4 {
+	color: #000;
+}
+
+.list-news .news-1 li img {
+	float: left;
+	margin-right: 15px;
+	width: 27%;
+	height: 180px;
+}
+
+.page li {
+	float: left;
+	padding: 5px 15px;
+	border: 1px solid #022573;
+	border-left: none;
+	cursor: pointer;
+}
+
+.page .active {
+	background-color: #022573;
+	color: #fff;
+}
+
+.page li:first-child {
+	border-left: 1px solid #022573;
+}
+
+.tuijian h3 {
+	color: #20208f;
+	font-weight: bold;
+}
+
+.news-2 li {
+	padding: 30px 10px 10px 10px;
+	height: 98px;
+	box-sizing: content-box;
+	box-shadow: 4px 4px 5px #a8a3a3;
+	margin-top: 10px;
+}
+
+.news-2 li img {
+	width: 114px;
+	margin-right: 10px;
+}
+
+.news-2 li h4 {
+	overflow: hidden;
+	width: 170px;
+	white-space: nowrap;
+	color: royalblue;
+	text-overflow: ellipsis;
+}

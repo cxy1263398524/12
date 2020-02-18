@@ -1,0 +1,13 @@
+.navbar{margin: 0;}
+.navbar-header{width: 140px;}
+.navbar-brand img{width: 100%;}
+.dropdown-menu{padding: 0;}
+.dropdown-menu li a{line-height: 30px;border-bottom: 1px solid #bbb;}
+.item1{background: url(../img/ultrasound-l.jpg) no-repeat;height: 430px;background-size: 100% 100%;margin-top: 50px;}
+.item1 h2{padding-top: 8%;font-size: 42px;font-weight: bolder;}
+.item1 p{font-size: 18px;width: 400px;}
+.item1 .btn{background-color: #1B6D85;width: 120px;}
+
+.item2{background: url(../img/li-l.jpg) no-repeat;height: 580px;background-size: 100% 100%;margin-top: 0px;color: #fff;}
+.item2 .btn{opacity:0.7}
+
